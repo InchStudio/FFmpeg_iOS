@@ -1,0 +1,8 @@
+lib/libavformat.a filter=lfs diff=lfs merge=lfs -text
+lib/libavutil.a filter=lfs diff=lfs merge=lfs -text
+lib/libfdk-aac.a filter=lfs diff=lfs merge=lfs -text
+lib/libmp3lame.a filter=lfs diff=lfs merge=lfs -text
+lib/libswresample.a filter=lfs diff=lfs merge=lfs -text
+lib/libswscale.a filter=lfs diff=lfs merge=lfs -text
+lib/libx264.a filter=lfs diff=lfs merge=lfs -text
+lib/libavcodec.a filter=lfs diff=lfs merge=lfs -text
